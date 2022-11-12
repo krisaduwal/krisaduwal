@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!---
 krisaduwal/krisaduwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
