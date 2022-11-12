@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krisaduwal. I'm a 5th semester BIT student in KIST College.
-- 👀 I’m interested in ...
+- 👀 I’m interested in everything that come accross
 - 🌱 I’m currently learning php and laravel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything on the way
 - 📫 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
