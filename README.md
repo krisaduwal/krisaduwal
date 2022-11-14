@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
  -->
 <!-- https://github-profile-trophy.vercel.app/?username=krisaduwal&no-bg=true -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krisaduwal&theme=onedark)](https://github.com/krisaduwal/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=krisaduwal&column=-1&theme=onedark)](https://github.com/krisaduwal/github-profile-trophy)
