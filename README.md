@@ -18,4 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisaduwal&layout=compact)](https://github.com/krisaduwal/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=krisaduwal&no-bg=true
+<!-- https://github-profile-trophy.vercel.app/?username=krisaduwal&title=Followers
+ -->
+<!-- https://github-profile-trophy.vercel.app/?username=krisaduwal&no-bg=true -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=krisaduwal&theme=onedark)](https://github.com/krisaduwal/github-profile-trophy)
