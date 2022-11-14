@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 [![Krisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisaduwal)](https://github.com/krisa/github-readme-stats)
 
 ![Krisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisaduwal&hide=contribs,prs)
+
+![Krisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisaduwal&show_icons=true&theme=dark)
