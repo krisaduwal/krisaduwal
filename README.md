@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krisaduwal)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krisaduwal&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krisaduwal&theme=dark)]
 
 <!-- https://github-profile-trophy.vercel.app/?username=krisaduwal&title=Followers
  -->
