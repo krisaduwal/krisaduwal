@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisaduwal&layout=compact)](https://github.com/krisaduwal/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krisaduwal)](https://git.io/streak-stats)
+
 <!-- https://github-profile-trophy.vercel.app/?username=krisaduwal&title=Followers
  -->
 <!-- https://github-profile-trophy.vercel.app/?username=krisaduwal&no-bg=true -->
