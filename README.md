@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Krisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisaduwal&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisaduwal&layout=compact)](https://github.com/krisaduwal/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisaduwal&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisaduwal&theme=tokyonight)](https://github.com/krisaduwal/github-readme-stats)
+
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krisaduwal)](https://git.io/streak-stats) -->
 
