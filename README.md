@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisaduwal. I'm a 8th semester BIT student in KIST College.
-- 👀 I’m interested in everything that come accross
-- 🌱 I’m currently learning php and laravel
+- 👀 I’m interested in everything that comes accross
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on anything on the way
 
 
