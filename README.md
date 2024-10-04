@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @krisaduwal. I'm a 8th semester BIT student in KIST College.
-- 👀 I’m interested in everything that comes accross
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on anything on the way
+- 👋 Hi, I’m @krisaduwal, a QA enthusiast
+- 👀 Looking forward to share my QA journey!
+- 🌱 I’m currently learning python, selenium, appium.
+  
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
