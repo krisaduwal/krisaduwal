@@ -4,8 +4,6 @@
   
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
 <!-- display the social media buttons in your README -->
 
 
@@ -21,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krisaduwal)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krisaduwal&theme=dark)]
+
 
 <!-- https://github-profile-trophy.vercel.app/?username=krisaduwal&title=Followers
  -->
